@@ -1,8 +1,8 @@
 //
 // 2020 운영체제
 // Simple FIle System
-// Student Name : 박동준	
-// Student Number : B511062
+// make by Park Dongjun
+// gcc sfs_disk.c sfs_func_my.c sfs_main.c sfs_func_ext.o
 //
 #include <stdio.h>
 #include <stdlib.h>
