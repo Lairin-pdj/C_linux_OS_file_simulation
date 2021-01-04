@@ -1,5 +1,5 @@
 //
-// 2020 운영체제
+// Operating System
 // Simple FIle System
 // make by Park Dongjun
 // gcc sfs_disk.c sfs_func_my.c sfs_main.c sfs_func_ext.o
